@@ -96,3 +96,5 @@ p = p.properties(
     width=alt.Step(50)
 )
 st.write(p)
+
+st.subheader('Pycendo Project Beta Version - Chaidir Adam 2021')

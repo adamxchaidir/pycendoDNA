@@ -2,10 +2,7 @@ import pandas as pd
 import streamlit as st
 import altair as alt
 from PIL import Image
-import Bio.Seq
-import Bio.SeqUtils
-from Bio.Seq import Seq
-from Bio.SeqUtils import GC
+
 
 
 ####################
